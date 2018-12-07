@@ -8,6 +8,4 @@ This python program will move a robot arm from one location to another in a 3-D 
 		● Create and design algorithm to find solutions to a system of simultaneous polynomial equations.
 		● Build a robot arm of N number of segments joined together by hinges to move around as an object in X, Y, Z coordinated space.
 
-# Under Construction
-
 ativ97
